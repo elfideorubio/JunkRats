@@ -25,7 +25,7 @@ void ASpawner_Zombie::BeginPlay()
 	AGameMode_Gamplay* GameMode_Gameplay = Cast<AGameMode_Gamplay>(UGameplayStatics::GetGameMode(GetWorld()));
 	if (GameMode_Gameplay)
 	{
-		GameMode_Gameplay->Spawn(this, 5);
+		GameMode_Gameplay->Spawn(this, 25);
 	}
 	
 }
