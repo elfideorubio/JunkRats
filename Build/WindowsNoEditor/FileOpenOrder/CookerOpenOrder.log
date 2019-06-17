@@ -1,264 +1,1235 @@
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
 "../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ExampleAdvancedSessionsFunctionsChar.uasset" 1
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_Friendlist_Entry.uasset" 2
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_FriendList.uasset" 3
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 4
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 5
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 6
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 7
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 8
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 9
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 10
-"../../../Engine/Content/BasicShapes/Cone.uasset" 11
-"../../../Engine/Content/BasicShapes/Cube.uasset" 12
-"../../../Engine/Content/BasicShapes/Plane.uasset" 13
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 14
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 15
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 16
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 17
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 18
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 19
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 20
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 21
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 22
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 23
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 24
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 25
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 26
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 27
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 28
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 29
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 30
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 31
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 32
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 33
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 34
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 35
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 36
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 37
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 38
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 39
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 40
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 41
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 42
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 43
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 44
-"../../../Engine/Content/EditorResources/S_Note.uasset" 45
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 46
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 47
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 48
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 49
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 50
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 51
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 52
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 53
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 54
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 55
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 56
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 57
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 58
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 59
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 60
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 61
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 62
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 63
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 64
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 65
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 66
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 67
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 68
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 69
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 70
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 71
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 72
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 73
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 74
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 75
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 76
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 77
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 78
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 79
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 80
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 81
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 82
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 83
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 84
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 85
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 86
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 87
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 88
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 89
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 90
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 91
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 92
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 93
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 94
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 95
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 96
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 97
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 98
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 99
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 100
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 101
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 102
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 103
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 104
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 105
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 106
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 107
-"../../../Engine/Content/EngineResources/Black.uasset" 108
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 109
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 110
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 111
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 112
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 113
-"../../../Engine/Content/EngineSounds/Master.uasset" 114
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 115
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 116
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 117
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 118
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 119
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 120
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 121
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 122
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 123
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 124
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 125
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 126
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 127
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 128
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 129
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 130
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 131
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 132
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 133
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 134
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 135
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 136
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 137
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 138
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 139
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 140
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 141
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 142
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 143
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 144
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 145
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 146
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 147
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 148
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 149
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 150
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 151
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 152
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 153
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 154
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 155
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 156
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 157
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 158
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 159
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 160
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 161
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 162
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 163
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 164
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 165
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 166
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 167
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 168
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 169
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 170
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 171
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 172
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 173
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 174
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 175
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 176
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 177
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 178
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 179
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 180
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 181
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 182
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 183
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 184
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 185
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 186
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 187
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 188
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 189
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 190
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 191
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 192
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 193
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 194
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/Maps.uasset" 195
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerEntry.uasset" 196
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerList.uasset" 197
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_ErrorMessage.uasset" 198
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_LoadingScreen.uasset" 199
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_SessionInvitation.uasset" 200
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_HostMenu.uasset" 201
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_MainMenu.uasset" 202
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerMenu.uasset" 203
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/MultiplayerTemplateGameInstance.uasset" 204
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_ByeBye.uasset" 205
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_Game_Over.uasset" 206
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_Start.uasset" 207
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/WBP_GameplayMenu.uasset" 208
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 209
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/PlayerInfo.uasset" 210
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyPlayerController.uasset" 211
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyPlayerState.uasset" 212
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyGameState.uasset" 213
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_Player_Entry.uasset" 214
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_LobbyMenu.uasset" 215
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayPlayerController.uasset" 216
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayGameState.uasset" 217
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayPlayerState.uasset" 218
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 219
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 220
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 221
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 222
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 223
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonRun.uasset" 224
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 225
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 226
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 227
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 228
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 229
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 230
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 231
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 232
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 233
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 234
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 235
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 236
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 237
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 238
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 239
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 240
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 241
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 242
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 243
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 244
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 245
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 246
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 247
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayGameMode.uasset" 248
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/GameplayMap_BuiltData.uasset" 249
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 250
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 251
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 252
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/GameplayMap.umap" 253
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyGameMode.uasset" 254
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/LobbyMap_BuiltData.uasset" 255
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/LobbyMap.umap" 256
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/MainMenuPlayerController.uasset" 257
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/MainMenuGameMode.uasset" 258
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/MainMenuMap_BuiltData.uasset" 259
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/MainMenuMap.umap" 260
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/TransitionMap.umap" 261
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 262
-"../../../Engine/Content/Maps/Entry.umap" 263
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 2
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 3
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Aim_Space_Hip.uasset" 4
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 5
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 6
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 7
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 8
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 9
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 10
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Death_2.uasset" 11
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/DeathPlayer.uasset" 12
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Death_1.uasset" 13
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Death_3.uasset" 14
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Death_Ironsights_1.uasset" 15
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Death_Ironsights_2.uasset" 16
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 17
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 18
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 19
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Hit_React_4.uasset" 20
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Idle_Pistol.uasset" 21
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 22
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 23
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_Death_1.uasset" 24
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_Death_2.uasset" 25
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_Fire_1.uasset" 26
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_Fire_2.uasset" 27
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_Idle.uasset" 28
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 29
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 30
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Prone_To_Stand.uasset" 31
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Reload_Pistol.uasset" 32
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 33
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 34
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 35
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 36
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 37
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 38
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Stand_To_Prone.uasset" 39
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 40
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 41
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 42
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 43
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/DetailTexturing.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 45
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 46
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 47
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockymud_02_ALB.uasset" 48
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockymud_02_NRM.uasset" 49
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Mask_Dirt_01.uasset" 50
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Plaster_01_RMA.uasset" 51
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/SmoothDirt_01_NRM.uasset" 52
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodenspool_ALB.uasset" 53
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodenspool_NRM.uasset" 54
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodenspool_RMA.uasset" 55
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/MASTER.uasset" 56
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/ElectricalBox_01.uasset" 57
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/ElectricalBox_Lights.uasset" 58
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/electricalbox_01_A.uasset" 59
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/electricalbox_01_B.uasset" 60
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/fireex_ALB.uasset" 61
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/fireex_NRM.uasset" 62
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/fireex_RMA.uasset" 63
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/FireEx.uasset" 64
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/fireex_01.uasset" 65
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Fusebox.uasset" 66
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/fusebox_01.uasset" 67
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/fusebox_02.uasset" 68
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/MetalPlates.uasset" 69
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/metalplate_01.uasset" 70
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/Oildrum_01_ALB.uasset" 71
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/oildrum_01_NRM.uasset" 72
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/oildrum_01_RMA.uasset" 73
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/OilDrum_01.uasset" 74
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/oildrum_01.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 76
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 77
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 78
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 79
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/petrol-1.uasset" 80
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/petrol-2.uasset" 81
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Petrol-pump.uasset" 82
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/pipenew_ALB.uasset" 83
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/pipenew_NRM.uasset" 84
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/pipenew_RMA.uasset" 85
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Pipenew_01.uasset" 86
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/WoodenCrate_01.uasset" 87
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/pipe_palette_01.uasset" 88
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/MI_Tarp.uasset" 89
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/pipe_palette_02.uasset" 90
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/pipe_solo_01.uasset" 91
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/pipe_solo_02.uasset" 92
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/plasticspool_ALB.uasset" 93
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/plasticspool_NRM.uasset" 94
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/plasticspool_RMA.uasset" 95
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/PlasticSpool.uasset" 96
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/plasticspool.uasset" 97
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/T_WaterTextures_M.uasset" 98
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/BlendAlpha_Vertex.uasset" 99
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/dirt_01_ALB.uasset" 100
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/dirt_01_NRM.uasset" 101
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/overalldetail_Height.uasset" 102
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/RegularDirt1.uasset" 103
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Road_02_ALB.uasset" 104
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Road_02_NRM.uasset" 105
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Road_02_tiling_ALB.uasset" 106
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Road_02_tiling_NRM.uasset" 107
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/TX_General_Clouds01_D.uasset" 108
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Road.uasset" 109
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Road_01.uasset" 110
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/road_01.uasset" 111
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tarp_01.uasset" 112
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tarp_02.uasset" 113
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tarp_03.uasset" 114
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/WaterTank.uasset" 115
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/watertank_01.uasset" 116
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/wire_ALB.uasset" 117
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/wire_NRM.uasset" 118
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/wire_RMA.uasset" 119
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Wire_Set01.uasset" 120
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/wire_bundle_01.uasset" 121
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodencrate_01.uasset" 122
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodencrates_01_ALB.uasset" 123
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodencrates_01_NRM.uasset" 124
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodencrates_01_RMA.uasset" 125
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/PM_Wood.uasset" 126
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/WoodenCrate_03.uasset" 127
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodencrate_02.uasset" 128
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodencrate_04.uasset" 129
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/WoodenCrate_02.uasset" 130
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodencrate_05.uasset" 131
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/WoodenSpool.uasset" 132
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodenspool_02.uasset" 133
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/mesh_cable_bsm.uasset" 134
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/mesh_cable_nrm.uasset" 135
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/mesh_cable_rgm.uasset" 136
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/mesh_cable_spe.uasset" 137
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Cable.uasset" 138
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/cap0_small.uasset" 139
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/cap1_small.uasset" 140
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_06.uasset" 141
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/BluePrints/Cable_Black.uasset" 142
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/fusebox_wire_01.uasset" 143
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/BluePrints/Cable_Power.uasset" 144
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/cap0_medium.uasset" 145
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/cap1_medium.uasset" 146
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/fuseline_01.uasset" 147
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/Railing_01_ALB.uasset" 148
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/Railing_01_ALB2.uasset" 149
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/Railing_01_RMA.uasset" 150
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/Railing_NRM.uasset" 151
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Metal_to_Rust.uasset" 152
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rust_01_ALB.uasset" 153
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/tilablepipe_01_ALB.uasset" 154
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/tilablepipe_01_NRM.uasset" 155
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/tilablepipe_01_RMA.uasset" 156
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/MetalTrim_C_RustBlend.uasset" 157
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/pipe_01.uasset" 158
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/pipe_02_cap.uasset" 159
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/pipe_02_corner_B.uasset" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 161
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 162
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 163
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 165
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 166
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 168
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/roadtracks_MASK.uasset" 169
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/roadtracks_MASK2.uasset" 170
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/roadtracks_NRM.uasset" 171
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/T_Water_01_N.uasset" 172
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/RoadTracks.uasset" 173
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/RoadTracks_01.uasset" 174
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/splineroad_01.uasset" 175
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/splineroad_2.uasset" 176
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_01.uasset" 177
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_02.uasset" 178
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Wire_Set02.uasset" 179
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_03.uasset" 180
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_03_hanging.uasset" 181
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_04.uasset" 182
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_05.uasset" 183
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/wires_bundle_01.uasset" 184
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 185
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wooduv-texture_wood-1_BaseColor.uasset" 186
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wooduv-texture_wood-1_Normal.uasset" 187
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wooduv-texture_wood-1_OcclusionRoughnessMetallic.uasset" 188
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wooduv-texture_wood_BaseColor.uasset" 189
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wooduv-texture_wood_Normal.uasset" 190
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wooduv-texture_wood_OcclusionRoughnessMetallic.uasset" 191
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/wood.uasset" 192
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood6.uasset" 193
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/FX/TX_FX_SmokeCloud01.uasset" 194
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/FX/FX_DustyAir_01.uasset" 195
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/TX_General_CloudsHQ01_D.uasset" 196
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/FX/FX_Clouds_01.uasset" 197
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/FX/TX_General_Flares02_D.uasset" 198
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/FX/FX_DustyAir.uasset" 199
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/FX/Particle_DustyAir.uasset" 200
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tin_out_tin_BaseColor.uasset" 201
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tin_out_tin_Normal.uasset" 202
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tin_out_tin_OcclusionRoughnessMetallic.uasset" 203
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/PM_Metal.uasset" 204
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/Tin.uasset" 205
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Tin.uasset" 206
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Wood.uasset" 207
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/crack_01_ALB.uasset" 208
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/crack_01_NRMtga.uasset" 209
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/damage5.uasset" 210
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/damage1.uasset" 211
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/decal_lettering_tiling_a_d.uasset" 212
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/patch_01_ALB.uasset" 213
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/patch_01_NRM.uasset" 214
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/GroundHole.uasset" 215
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/damage_03_ALB.uasset" 216
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/damage2.uasset" 217
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/damage3.uasset" 218
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/damage4.uasset" 219
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/Decal_Grunge_Leaking_A.uasset" 220
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/grunge1.uasset" 221
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/leaking_01_ALB.uasset" 222
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/grunge2.uasset" 223
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/leaking_02_ALB.uasset" 224
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/grunge3.uasset" 225
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/decal_grunge_06_ALB.uasset" 226
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/grunge4.uasset" 227
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/footprint_NRM.uasset" 228
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/ground_Heights.uasset" 229
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/Footprint.uasset" 230
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/DirtFootpriunts.uasset" 231
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/Mat_Collection.uasset" 232
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/muddywater_NRM.uasset" 233
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/T_Environment_Materials_Wet_TilingFlow02_N.uasset" 234
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/Puddle.uasset" 235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 237
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 241
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 243
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockyearth_01_ALB.uasset" 244
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockyearth_01_HEIGHT.uasset" 245
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockyearth_01_NRM.uasset" 246
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/RockyEarth.uasset" 247
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/SmoothDirt_01_ALB.uasset" 248
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/Water_01.uasset" 249
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Glass/Glass_illuminated.uasset" 250
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Glass/Glass_illuminated_Cool_01.uasset" 251
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Glass/Glass_illuminated_Warm_01l.uasset" 252
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Glass/Glass.uasset" 253
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Glass/Truckglass.uasset" 254
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Bollard.uasset" 255
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Cylinder_02_B.uasset" 256
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Cylinder_02_C.uasset" 257
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/RockMound.uasset" 258
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/Footprint_LayerInfo.uasset" 259
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakBaseColor.uasset" 260
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakNormal.uasset" 261
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockymud_01_ALB.uasset" 262
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockymud_01_HGHT.uasset" 263
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockymud_01_NRM.uasset" 264
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/RockyGround.uasset" 265
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/muddyground_ALB.uasset" 266
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/muddyground_NRM.uasset" 267
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/SmoothDirt.uasset" 268
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/Landscape2.uasset" 269
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/Landscape.uasset" 270
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/Puddle_LayerInfo.uasset" 271
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/RegularDirt_LayerInfo.uasset" 272
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/RockyDirt_LayerInfo.uasset" 273
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/Sand_LayerInfo.uasset" 274
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Landscape_Splines/SmoothDirt_LayerInfo.uasset" 275
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/EmissiveLight.uasset" 276
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/Ficker_Color.uasset" 277
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/Flicker_Color_Inst.uasset" 278
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/Flicker_LightFunction.uasset" 279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 280
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 281
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/TangentBasis.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SplineThicken.uasset" 283
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/T_GodRay_Mask02.uasset" 284
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/TilingNoise02.uasset" 285
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/GodRay_MASTER.uasset" 286
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/GodRay_Animated.uasset" 287
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/GodRay_UtlityLight.uasset" 288
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/LightFunction_Flicker.uasset" 289
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Lighting/LightFunction_Flicker_Inst.uasset" 290
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/T_Grime_D.uasset" 291
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Metal.uasset" 292
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Pitch_Black.uasset" 293
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/Dev.uasset" 294
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Dev_Mat.uasset" 295
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/Dev_Mat.uasset" 296
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/flatstone_NRM.uasset" 297
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/roadtracks_ALB.uasset" 298
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_01_ALB.uasset" 299
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_01_HEIGHT.uasset" 300
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_01_NRM.uasset" 301
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_01_RMA.uasset" 302
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_ALB.uasset" 303
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_Height.uasset" 304
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_NRM.uasset" 305
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockyground_RMA.uasset" 306
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockymud_01_ALB.uasset" 307
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockymud_01_HGHT.uasset" 308
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockymud_01_NRM.uasset" 309
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/editing-000/rockymud_01_RMA.uasset" 310
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/FX/T_soft_smoke.uasset" 311
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/1.uasset" 312
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/10.uasset" 313
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/10_.uasset" 314
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/11.uasset" 315
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/12.uasset" 316
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/13.uasset" 317
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/14.uasset" 318
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/15.uasset" 319
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/16.uasset" 320
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/17.uasset" 321
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/18.uasset" 322
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/180Degree_IES_2.uasset" 323
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/19.uasset" 324
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/2.uasset" 325
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/20.uasset" 326
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/21.uasset" 327
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/22.uasset" 328
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/23.uasset" 329
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/24.uasset" 330
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/25.uasset" 331
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/26.uasset" 332
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/27.uasset" 333
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/28.uasset" 334
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/29.uasset" 335
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/3.uasset" 336
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/30.uasset" 337
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/31.uasset" 338
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/32.uasset" 339
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/33.uasset" 340
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/34.uasset" 341
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/35.uasset" 342
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/36.uasset" 343
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/37.uasset" 344
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/38.uasset" 345
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/39.uasset" 346
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/4.uasset" 347
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/40.uasset" 348
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/41.uasset" 349
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/42.uasset" 350
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/43.uasset" 351
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/44.uasset" 352
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/45.uasset" 353
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/46.uasset" 354
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/47.uasset" 355
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/48.uasset" 356
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/49.uasset" 357
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/5.uasset" 358
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/50.uasset" 359
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/6.uasset" 360
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/7.uasset" 361
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/8.uasset" 362
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/9.uasset" 363
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/90Degree_IES_2.uasset" 364
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/AreaLight.uasset" 365
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Bollard.uasset" 366
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Comet.uasset" 367
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/CylinderNarrow.uasset" 368
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/CylinderWide.uasset" 369
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Defined.uasset" 370
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/DefinedDiffuse.uasset" 371
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/DefinedDiffuseSpot.uasset" 372
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/DefinedSpot.uasset" 373
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Display.uasset" 374
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/JellyFish.uasset" 375
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/MediumScatter.uasset" 376
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Overhead.uasset" 377
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/ParallelBeam.uasset" 378
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Pear.uasset" 379
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Round.uasset" 380
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/ScatterLight.uasset" 381
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SoftArrow.uasset" 382
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SoftDisplay.uasset" 383
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SpotLightPointingDown01.uasset" 384
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SpotLightPointingDownWide01.uasset" 385
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SpotLightPointingDownWide02.uasset" 386
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SpotLightPointingDownWide03.uasset" 387
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SpotLightPointingDownWide04.uasset" 388
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SpotLightPointingDownWide05.uasset" 389
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/SpotLightWide01.uasset" 390
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/ThreeLobeUmbrella.uasset" 391
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/ThreeLobeVee.uasset" 392
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/TightFocused.uasset" 393
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/TopPost.uasset" 394
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Trapezoid_.uasset" 395
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/T_EV_LightBeam_Falloff_04.uasset" 396
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/T_GodRay_Mask01.uasset" 397
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Umbrella.uasset" 398
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/Vee.uasset" 399
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/XArrow.uasset" 400
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/XArrowDiffuse.uasset" 401
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Lighting/XArrowSoft.uasset" 402
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/clut_default_a.uasset" 403
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/clut_filmic_a.uasset" 404
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/clut_filmic_b.uasset" 405
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/lut01.uasset" 406
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/lut_01.uasset" 407
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_BleachBypass.uasset" 408
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_CandleLight.uasset" 409
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Cave.uasset" 410
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_CoolContrast.uasset" 411
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_DesaturatedFog.uasset" 412
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Fall.uasset" 413
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Filmic.uasset" 414
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Filmic2.uasset" 415
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Filmic3.uasset" 416
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Filmic4.uasset" 417
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Filmic5.uasset" 418
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Filmic6.uasset" 419
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Filmic9.uasset" 420
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/LUT_Warm.uasset" 421
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/RGBTable16x1_peachy.uasset" 422
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/TX_LUT0.uasset" 423
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/TX_LUT1.uasset" 424
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/TX_LUT2.uasset" 425
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/TX_LUT3.uasset" 426
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/TX_LUT4.uasset" 427
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/LUT/TX_LUT5.uasset" 428
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concreteedge_01_ALB.uasset" 429
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concreteedge_01_NRM.uasset" 430
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concretewall_01_detail.uasset" 431
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concretewall_03_NRM.uasset" 432
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_01_ALB.uasset" 433
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_01_RMA.uasset" 434
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_detail_NRM.uasset" 435
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metalpanel_01_ALB.uasset" 436
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metalpanel_01_NRM.uasset" 437
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metalpanel_01_RMA.uasset" 438
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metaltileable_01_ALB.uasset" 439
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metaltileable_01_RMA.uasset" 440
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Mix_MASK.uasset" 441
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/road_01_ALB.uasset" 442
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/road_01_NRM.uasset" 443
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/sidewalk_01_ALB.uasset" 444
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/sidewalk_01_NRM.uasset" 445
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/sidewalk_01_RMA.uasset" 446
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/bollard_ALB.uasset" 447
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/bollard_NRM.uasset" 448
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/bollard_RMA.uasset" 449
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cylinder_02_ALB2.uasset" 450
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cylinder_02_ALB3.uasset" 451
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cylinder_02_NRM.uasset" 452
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/electricalbox_01_ALB.uasset" 453
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/electricalbox_01_NRM.uasset" 454
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/electricalbox_01_RMA.uasset" 455
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/fusebox_ALB.uasset" 456
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/fusebox_NRM.uasset" 457
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/fusebox_RMA.uasset" 458
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/glass_car.uasset" 459
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/ironuv_out_Iron-2_Normal.uasset" 460
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/metalplate_01_ALB.uasset" 461
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/metalplate_01_NRM.uasset" 462
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/metalplate_01_RMA.uasset" 463
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/Railing_01_ALB3.uasset" 464
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/rockmound_mask.uasset" 465
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/rockmound_NRM.uasset" 466
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/rockset_02_NRM.uasset" 467
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/rockset_02_RMA.uasset" 468
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tarp_01_ALB.uasset" 469
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tarp_01_NRM.uasset" 470
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tarp_01_RMA.uasset" 471
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/VentingClamp_ALB.uasset" 472
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/VentingClamp_NRM.uasset" 473
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/VentingClamp_RMA.uasset" 474
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wallspeaker_ALB.uasset" 475
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wallspeaker_NRM.uasset" 476
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wallspeaker_RMA.uasset" 477
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/watertank_01_ALB.uasset" 478
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/watertank_01_NRM.uasset" 479
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/watertank_01_RMA.uasset" 480
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wires_03_ALB.uasset" 481
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wires_03_NRM.uasset" 482
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/wires_03_RMA.uasset" 483
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/SkinSSProfile.uasset" 484
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MeshAndAnimations/Demon_Skeleton.uasset" 485
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_ClawLicking.uasset" 486
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_ClawWallScrape.uasset" 487
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_FastRun.uasset" 488
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_FiggetIdle.uasset" 489
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_GimpWalk.uasset" 490
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_StaggeringWalk.uasset" 491
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_StrongWalk.uasset" 492
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_TwitchyWalk.uasset" 493
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/EyesMats.uasset" 494
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 495
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 496
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/HairMat.uasset" 497
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/HorseShoeMat.uasset" 498
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/TeethMat.uasset" 499
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/5084OT_03_49.uasset" 500
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/Alpha_Mask-Human_Hair__1_-Curly.uasset" 501
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/BWGradient.uasset" 502
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/Eyes_Texture_baseTexBaked.uasset" 503
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/Eyes_Texture_normals.uasset" 504
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/GlowingMonsterIrisMask.uasset" 505
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/GreasyGoatLegHair.uasset" 506
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/HairWhite3.uasset" 507
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/TeethTexture_baseTexBaked.uasset" 508
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/T_Detail_Rocky_N.uasset" 509
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/Creaking.uasset" 510
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/NewSoundAttenuation.uasset" 511
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/NewSoundAttenuation.uasset" 512
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/Underpass.uasset" 513
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/Gathering/MU_Gathering_Strings.uasset" 514
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/MainMenu/MU_CountDown.uasset" 515
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Fauna/E_Cicadas.uasset" 516
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Fauna/E_Crickets.uasset" 517
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Fire/Fire_Crackling.uasset" 518
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Bite_1.uasset" 519
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/BodyDragCarpet.uasset" 520
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Call_1.uasset" 521
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Call_2.uasset" 522
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Call_3.uasset" 523
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Call_4.uasset" 524
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Cat_1.uasset" 525
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Cat_2.uasset" 526
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Cat_3.uasset" 527
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Chains_1.uasset" 528
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Creaking.uasset" 529
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Glitch1.uasset" 530
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Glitch2.uasset" 531
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Groan_1.uasset" 532
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Groan_2.uasset" 533
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Groan_3.uasset" 534
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HeavyStep_1.uasset" 535
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HeavyStep_2.uasset" 536
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HeavyStep_3.uasset" 537
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HeavyStep_4.uasset" 538
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HeavyStep_5.uasset" 539
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HeavyStep_6.uasset" 540
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HospitalMonsterEnraged.uasset" 541
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/HospitalMonsterGeneral.uasset" 542
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Knocks_2.uasset" 543
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Knocks_3.uasset" 544
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Knock_1.uasset" 545
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Moan_1.uasset" 546
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Rotor_1.uasset" 547
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Running_1.uasset" 548
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Structure/E_Structure_Creak.uasset" 549
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Structure/E_Structure_Creak02.uasset" 550
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Junk/P_Step_Junk01.uasset" 551
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Junk/P_Step_Junk02.uasset" 552
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Junk/P_Step_Junk03.uasset" 553
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Junk/P_Step_Junk04.uasset" 554
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Junk/P_Step_Junk05.uasset" 555
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Junk/P_Step_Junk06.uasset" 556
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Junk/P_Step_Junk07.uasset" 557
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Hollow01.uasset" 558
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Hollow02.uasset" 559
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Hollow03.uasset" 560
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Hollow04.uasset" 561
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Hollow05.uasset" 562
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Hollow06.uasset" 563
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Hollow07.uasset" 564
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal01.uasset" 565
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal02.uasset" 566
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal03.uasset" 567
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal04.uasset" 568
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal05.uasset" 569
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal06.uasset" 570
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal07.uasset" 571
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal08.uasset" 572
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal09.uasset" 573
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Metal/P_Step_Metal10.uasset" 574
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Mud/P_Step_Mud01.uasset" 575
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Mud/P_Step_Mud02.uasset" 576
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Mud/P_Step_Mud03.uasset" 577
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Mud/P_Step_Mud04.uasset" 578
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Mud/P_Step_Mud05.uasset" 579
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Mud/P_Step_Mud06.uasset" 580
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Mud/P_Step_Mud07.uasset" 581
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Wood/P_Step_Wood1.uasset" 582
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Wood/P_Step_Wood2.uasset" 583
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Wood/P_Step_Wood3.uasset" 584
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Wood/P_Step_Wood4.uasset" 585
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/MainMenu/MM_Click.uasset" 586
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/MainMenu/MM_Click_Cue.uasset" 587
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/MainMenu/MM_CountDown.uasset" 588
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/MainMenu/MM_START.uasset" 589
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/AudioBP/Agression_Tracks.uasset" 590
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 591
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 592
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 593
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 594
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 595
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 596
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 597
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 598
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 599
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 600
+"../../../Engine/Content/EngineMeshes/MaterialSphere.uasset" 601
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 602
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 603
+"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 604
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 605
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 606
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 607
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 608
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 609
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 610
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 611
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 612
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 613
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 614
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 615
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 616
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 617
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 618
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 619
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 620
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 621
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 622
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 623
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 624
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 625
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 626
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 627
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 628
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 629
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 630
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 631
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 632
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 633
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/PlayableCharacters/PlayableHuman.uasset" 634
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 635
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 636
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 637
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 638
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/Zombie_TEST_BP.uasset" 639
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/SpawnerZombieZoink.uasset" 640
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 641
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 642
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 643
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 644
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 645
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Meshes/BaseMaterial.uasset" 646
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 647
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 648
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPersonBP/FirstPersonOverview.uasset" 649
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 650
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 651
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 652
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 653
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Geometry/Meshes/CubeMaterial.uasset" 654
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 655
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Geometry/Meshes/TemplateFloor.uasset" 656
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_Friendlist_Entry.uasset" 657
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_FriendList.uasset" 658
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Gun.uasset" 659
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 660
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 661
+"../../../Engine/Content/BasicShapes/Cone.uasset" 662
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 663
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 664
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 665
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 666
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 667
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 668
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 669
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 670
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 671
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 672
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 673
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 674
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 675
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 676
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 677
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 678
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 679
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 680
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 681
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 682
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 683
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 684
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 685
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 686
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 687
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 688
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 689
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 690
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 691
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 692
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 693
+"../../../Engine/Content/EditorResources/S_Note.uasset" 694
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 695
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 696
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 697
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 698
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 699
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 700
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 701
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 702
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 703
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 704
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 705
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 706
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 707
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 708
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 709
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 710
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 711
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 712
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 713
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 714
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 715
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 716
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 717
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 718
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 719
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 720
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 721
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 722
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 723
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 724
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 725
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 726
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 727
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 728
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 729
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 730
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 731
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 732
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 733
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 734
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 735
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 736
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 737
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 738
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 739
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 740
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 741
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 742
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 743
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 744
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 745
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 746
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 747
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 748
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 749
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 750
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 751
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 752
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 753
+"../../../Engine/Content/EngineResources/Black.uasset" 754
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 755
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 756
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 757
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 758
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 759
+"../../../Engine/Content/EngineSounds/Master.uasset" 760
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 761
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 762
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 763
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 764
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 765
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 766
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 767
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 768
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 769
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 770
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 771
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 772
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 773
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 774
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 775
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 776
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 777
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 778
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 779
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 780
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 781
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 782
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 783
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 784
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 785
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 786
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 787
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 788
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 789
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 790
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 791
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 792
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 793
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 794
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 795
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 796
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 797
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 798
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 799
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 800
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 801
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 802
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 803
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 804
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 805
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 806
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 807
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 808
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 809
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 810
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 811
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 812
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 813
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 814
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 815
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 816
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 817
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 818
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 819
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 820
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 821
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 822
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 823
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 824
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 825
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 826
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 827
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 828
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 829
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 830
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 831
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 832
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 833
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 834
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 835
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Hit_React_1.uasset" 836
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Hit_React_2.uasset" 837
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Hit_React_3.uasset" 838
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 839
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 840
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 841
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 842
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 843
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 844
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 845
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 846
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 847
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 848
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 849
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 850
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 851
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 852
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 853
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 854
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 855
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 856
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 857
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 858
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 859
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 860
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 861
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 862
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 863
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 864
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 865
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 866
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 867
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 868
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 869
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 870
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 871
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Showcase.umap" 872
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 873
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 874
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 875
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Geometry/Meshes/1M_Cube.uasset" 876
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 877
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 878
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 879
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 880
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 881
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 882
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonRun.uasset" 883
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 884
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 885
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Fire_Rifle_Hip.uasset" 886
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Fire_montage1.uasset" 887
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 888
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Rope.uasset" 889
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Blueprints/Hollow.uasset" 890
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Blueprints/Metal.uasset" 891
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Blueprints/Mud.uasset" 892
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Footsteps/Blueprints/Wood_Step.uasset" 893
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 894
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 895
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 896
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 897
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 898
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 899
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 900
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 901
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 902
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 903
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 904
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 905
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 906
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 907
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 908
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 909
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 910
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 911
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Fire.uasset" 912
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Fire_Montage.uasset" 913
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Croshair.uasset" 914
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Crosshair.uasset" 915
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/StarterContent/Textures/T_MacroVariation.uasset" 916
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 917
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Grapple_Hook.uasset" 918
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Mat.uasset" 919
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/Hook.uasset" 920
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/HookCharacter.uasset" 921
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/GameModeTest.uasset" 922
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/Fideo_TestMap_BuiltData.uasset" 923
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 924
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 925
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 926
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 927
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 928
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 929
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 930
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 931
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 932
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 933
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 934
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 935
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 936
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/Fideo_TestMap.umap" 937
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_AlertToRunTransition.uasset" 938
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_DizzyIdle.uasset" 939
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_SlowWalk.uasset" 940
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/RunFixed.uasset" 941
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/BS_Movement.uasset" 942
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/AB_Demon.uasset" 943
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_SlashFromSideForward.uasset" 944
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_SlashTopToBottom.uasset" 945
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Slash_AM.uasset" 946
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Animations/Game/MeshAndAnimations/Demon_Anim_metarig_IdleHeadTilt.uasset" 947
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 948
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Jump_From_Jog.uasset" 949
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Jump_From_Stand.uasset" 950
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 951
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 952
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 953
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 954
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/BS_CrouchWalk.uasset" 955
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 956
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 957
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 958
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 959
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/BS_Jog.uasset" 960
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Ue4ASP_Character.uasset" 961
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 962
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 963
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Fire_montage.uasset" 964
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/AnimStarterPack/Hit_React_Player.uasset" 965
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/Gathering/MU_Gathering_Base.uasset" 966
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/Gathering/MU_Gathering_Pads01.uasset" 967
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/Gathering/MU_Gathering_Pads02.uasset" 968
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/Bite_2.uasset" 969
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Blueprints/CaptainHook.uasset" 970
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/FideoPlaceHolderZombie/ZombiePlaceHolder_AI_Controller.uasset" 971
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 972
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 973
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 974
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/BoneAndHornMask.uasset" 975
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/Low_Poly_baseTexBaked.uasset" 976
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/Low_Poly_normals.uasset" 977
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/Textures/SkinMaskBW.uasset" 978
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/DemanSkinMat.uasset" 979
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/DemanSkinMat_Inst.uasset" 980
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/EyesMats_Inst.uasset" 981
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/HairMat_Inst.uasset" 982
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/HorseShoeMat_Inst.uasset" 983
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MaterialsAndINSTs/TeethMat_Inst.uasset" 984
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MeshAndAnimations/Demon_PhysicsAsset.uasset" 985
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Zombie_PlaceHolder/MeshAndAnimations/Demon.uasset" 986
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/FideoPlaceHolderZombie/ZombiePlaceHolder.uasset" 987
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/FideoPlaceHolderZombie/WaveStruct.uasset" 988
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/Maps.uasset" 989
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerEntry.uasset" 990
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerList.uasset" 991
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_ErrorMessage.uasset" 992
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_LoadingScreen.uasset" 993
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_SessionInvitation.uasset" 994
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_HostMenu.uasset" 995
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_MainMenu.uasset" 996
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerMenu.uasset" 997
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/MultiplayerTemplateGameInstance.uasset" 998
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_ByeBye.uasset" 999
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_Game_Over.uasset" 1000
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_Start.uasset" 1001
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/WBP_GameplayMenu.uasset" 1002
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1003
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/AllLevels/PlayerInfo.uasset" 1004
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyPlayerController.uasset" 1005
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyPlayerState.uasset" 1006
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyGameState.uasset" 1007
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_Player_Entry.uasset" 1008
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_LobbyMenu.uasset" 1009
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayPlayerController.uasset" 1010
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayGameState.uasset" 1011
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayPlayerState.uasset" 1012
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayGameMode.uasset" 1013
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/GameplayMap_BuiltData.uasset" 1014
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1015
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1016
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1017
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/GameplayMap.umap" 1018
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyGameMode.uasset" 1019
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/LobbyMap_BuiltData.uasset" 1020
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/MainMenu/MU_MainMenu.uasset" 1021
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/MainMenu/MU_MainMenuCue.uasset" 1022
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/LobbyMap.umap" 1023
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/MainMenuPlayerController.uasset" 1024
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Blueprints/MainMenu/MainMenuGameMode.uasset" 1025
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/MainMenuMap_BuiltData.uasset" 1026
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/MainMenuMap.umap" 1027
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/TestAudio_BuiltData.uasset" 1028
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/TestAudio.umap" 1029
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/Spawner_Zombie_TEST.uasset" 1030
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/TestMechanics_BuiltData.uasset" 1031
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/TestMechanics.umap" 1032
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/MultiplayerTemplate/Levels/TransitionMap.umap" 1033
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/pipe_02.uasset" 1034
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/BluePrints/Spline_Pipe.uasset" 1035
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/Composition-main_BuiltData.uasset" 1036
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metalgrate_01_ALB.uasset" 1037
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metalgrate_01_NRM.uasset" 1038
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metalgrate_01_RMA.uasset" 1039
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/MetalGrate_01.uasset" 1040
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BlendAngleCorrectedNormals.uasset" 1041
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Stain.uasset" 1042
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_StandardWithMaskEdgeTint.uasset" 1043
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/Normal_Intensity.uasset" 1044
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/TexCoord_Scaler.uasset" 1045
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_01_NRM.uasset" 1046
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_03_ALB.uasset" 1047
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_03_NRM.uasset" 1048
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_03_RMA.uasset" 1049
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/ConcreteWall_Base.uasset" 1050
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_03_DAM_ALB.uasset" 1051
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_03_DAM_NRM.uasset" 1052
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concrete_03_RHA.uasset" 1053
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/ConcreteWall_Damaged.uasset" 1054
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concretewall_03_ALB.uasset" 1055
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/concretewall_leaking_ALB.uasset" 1056
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Generic_clouds_Mask.uasset" 1057
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/MASK_Blended_NRM.uasset" 1058
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockymud_02_ALB.uasset" 1059
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockymud_02_NRM.uasset" 1060
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/PM_Mud.uasset" 1061
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Wall_01.uasset" 1062
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Functions/AssetDirt.uasset" 1063
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/Dripmask.uasset" 1064
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockset_01_tile_ALB.uasset" 1065
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rockset_01_tile_NRM.uasset" 1066
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/rockset_01_NRM.uasset" 1067
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/rockset_01_RMA.uasset" 1068
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Rocks.uasset" 1069
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Rockset_02b.uasset" 1070
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1071
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1072
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1073
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/barrier_01_ALB.uasset" 1074
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/barrier_01_NRM.uasset" 1075
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/barrier_01_RMA.uasset" 1076
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/ConcreteBarrier.uasset" 1077
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/barrier_01.uasset" 1078
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/car-small_out_Car-Chair_BaseColor.uasset" 1079
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/car-small_out_Car-Chair_Emissive.uasset" 1080
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/car-small_out_Car-Chair_Normal.uasset" 1081
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/car-small_out_Car-Chair_OcclusionRoughnessMetallic.uasset" 1082
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/PM_Hollow.uasset" 1083
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/car.uasset" 1084
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/car.uasset" 1085
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cementbag_01_ALB.uasset" 1086
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cementbag_01_NRM.uasset" 1087
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cementbag_01_RMA.uasset" 1088
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/CementBag.uasset" 1089
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/cementbag_pile_01.uasset" 1090
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/cementbag_pile_02.uasset" 1091
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/cementbag_pile_03.uasset" 1092
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/chains_01.uasset" 1093
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/crate-emu-background_out_container_BaseColor.uasset" 1094
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/crate-emu-background_out_container_Normal.uasset" 1095
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/crate-emu-background_out_container_OcclusionRoughnessMetallic.uasset" 1096
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/container.uasset" 1097
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/container.uasset" 1098
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metaltileable_01_NRM.uasset" 1099
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metaltileable_02_ALB.uasset" 1100
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/metaltileable_02_RMA.uasset" 1101
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/MetalTrim_B_RustBlend.uasset" 1102
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/entrysign_01.uasset" 1103
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/excavator.uasset" 1104
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/generators-emu-background_out_Generator+Light_BaseColor.uasset" 1105
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/generators-emu-background_out_Generator+Light_Emissive.uasset" 1106
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/generators-emu-background_out_Generator+Light_Normal.uasset" 1107
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/generators-emu-background_out_Generator+Light_OcclusionRoughnessMetallic.uasset" 1108
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/generator+light.uasset" 1109
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/generator.uasset" 1110
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/house-middle-corrigated.uasset" 1111
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/lighting.uasset" 1112
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/plane_out_plane_BaseColor.uasset" 1113
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/plane_out_plane_Normal.uasset" 1114
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/plane_out_plane_OcclusionRoughnessMetallic.uasset" 1115
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/Plane.uasset" 1116
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/plane-engine.uasset" 1117
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/plane-middle.uasset" 1118
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/plane-tail.uasset" 1119
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/plane-wall-part.uasset" 1120
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/plane-wing-part.uasset" 1121
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/roadend_01.uasset" 1122
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_01.uasset" 1123
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_02.uasset" 1124
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_03.uasset" 1125
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_04.uasset" 1126
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_set_01.uasset" 1127
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_set_02.uasset" 1128
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_set_03.uasset" 1129
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_set_04.uasset" 1130
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/rock_set_05.uasset" 1131
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Tiling/rock_overlay_NRM.uasset" 1132
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cavewall_01_ALB.uasset" 1133
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cavewall_01_NRM.uasset" 1134
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cavewall_01_RMA.uasset" 1135
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Masters/Cavewalls.uasset" 1136
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/CaveWalls.uasset" 1137
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/Rock_wall1.uasset" 1138
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/Rock_wall2.uasset" 1139
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/Rock_wall3.uasset" 1140
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/Rock_wall4.uasset" 1141
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Rocks/Rock_wall5.uasset" 1142
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tire-low_tires_BaseColor.uasset" 1143
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tire-low_tires_Normal.uasset" 1144
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/tire-low_tires_OcclusionRoughnessMetallic.uasset" 1145
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/Tire.uasset" 1146
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tire-1.uasset" 1147
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tire-2.uasset" 1148
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tire-3.uasset" 1149
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tire-4.uasset" 1150
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tire-5.uasset" 1151
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/tire-6.uasset" 1152
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodencrate_03.uasset" 1153
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodencrate_04_lid.uasset" 1154
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodenpalette_01_ALB.uasset" 1155
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodenpalette_01_NRM.uasset" 1156
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/woodenpalette_01_RMA.uasset" 1157
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/WoodenPalette_01.uasset" 1158
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodenpalette_01.uasset" 1159
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/woodenspool_01.uasset" 1160
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/Wind.uasset" 1161
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Music/Gathering/Gathering.uasset" 1162
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Reverb/Underpass.uasset" 1163
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/InsectAttenuation.uasset" 1164
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Fauna/Bugs.uasset" 1165
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/Crows.uasset" 1166
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Fauna/E_Crows.uasset" 1167
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Fauna/Crows.uasset" 1168
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/RandomBox.uasset" 1169
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/RandomBox/RandomBox.uasset" 1170
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Structure/Creak.uasset" 1171
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Attenuation/Howling_Wind.uasset" 1172
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Wind/E_Wind_High.uasset" 1173
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Wind/E_Wind_Howling.uasset" 1174
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Wind/Howling.uasset" 1175
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Wind/E_Wind_Air.uasset" 1176
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Audio/Sound/Enviro/Wind/Wind.uasset" 1177
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/Composition-main.umap" 1178
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/FideoPlaceHolderZombie/Playermode/CaptainHook_PC.uasset" 1179
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/BluePrints/Zombies/FideoPlaceHolderZombie/Playermode/CaptainHookMode.uasset" 1180
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/FideoMap_BuiltData.uasset" 1181
+"../../../Engine/Content/EngineMaterials/DefaultCubemap.uasset" 1182
+"../../../Engine/Content/EngineMaterials/CubeMaterial.uasset" 1183
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Textures/T_Scene_Layout.uasset" 1184
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Materials/M_Scene_Layout_Mat.uasset" 1185
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1186
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/FideoMap.umap" 1187
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/Main_level_BuiltData.uasset" 1188
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/coffee.uasset" 1189
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/logo1.uasset" 1190
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/cola.uasset" 1191
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/logo2.uasset" 1192
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/gas_4x.uasset" 1193
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/logo3.uasset" 1194
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/Decals/repair_4x.uasset" 1195
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Decals/logo4.uasset" 1196
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cylinder_01_NRM.uasset" 1197
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cylinder_02_ALB.uasset" 1198
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/cylinder_02_RMA.uasset" 1199
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Cylinder_02_A.uasset" 1200
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/nozzle_ALB.uasset" 1201
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/nozzle_NRM.uasset" 1202
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/nozzle_RMA.uasset" 1203
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/Instances/Nozzle_01.uasset" 1204
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/cylinder_02.uasset" 1205
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/ironuv_out_Iron-2_BaseColor.uasset" 1206
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/ironuv_out_Iron-2_OcclusionRoughnessMetallic.uasset" 1207
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/ironuv_out_Iron_BaseColor.uasset" 1208
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/ironuv_out_Iron_Normal.uasset" 1209
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Textures/UV_Unique/ironuv_out_Iron_OcclusionRoughnessMetallic.uasset" 1210
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/Materials/UV-materials/Iron_corrigated.uasset" 1211
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron-pannel.uasset" 1212
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron-railing.uasset" 1213
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron1.uasset" 1214
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron2.uasset" 1215
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron3.uasset" 1216
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron4.uasset" 1217
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron5.uasset" 1218
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Iron/iron6.uasset" 1219
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Splines/pipe_02_corner.uasset" 1220
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood1.uasset" 1221
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood10.uasset" 1222
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood2.uasset" 1223
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood3.uasset" 1224
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood4.uasset" 1225
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood5.uasset" 1226
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood7.uasset" 1227
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood8.uasset" 1228
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/Art/3dModels/Wood/wood9.uasset" 1229
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/Main_level.umap" 1230
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/TestSceneLayout_BuiltData.uasset" 1231
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/JunkRats/Content/ThirdPersonBP/Maps/TestSceneLayout.umap" 1232
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1233
+"../../../Engine/Content/Maps/Entry.umap" 1234
